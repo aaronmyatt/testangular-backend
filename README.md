@@ -5,7 +5,7 @@ Testangulars backend goodness
 ## What is it?
 
 ## Why? What are the benefits?
-> *My 3C's*
+> **My 3C's**
 
 > # Confidence
 > # Communication
@@ -17,7 +17,7 @@ Testangulars backend goodness
 ### Unit
   - **Unittest**
   - **Nose**
-  - Pytest
+  - **Pytest**
 
 ### Integration
 ### E2E
