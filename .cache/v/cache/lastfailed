@@ -1,0 +1,6 @@
+{
+  "users/test/test_views.py::TestUserAPI::test_post_request_with_no_data_fails": true,
+  "users/test/test_views.py::TestUserAPI::test_post_request_with_valid_data_succeeds": true,
+  "users/test/test_views.py::TestUserDetailAPI::test_get_request_returns_a_given_user": true,
+  "users/test/test_views.py::TestUserDetailAPI::test_put_request_updates_a_user": true
+}

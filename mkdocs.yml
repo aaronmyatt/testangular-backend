@@ -1,0 +1,11 @@
+site_name: ctest
+site_description: 5
+repo_url: https://github.com/aaronmyatt/ctest
+site_dir: site
+copyright: Copyright &copy; 2015, <a href="https://github.com/aaronmyatt">aaronmyatt</a>.
+
+pages:
+  - Home: 'index.md'
+  - API:
+    - Authentication: 'api/authentication.md'
+    - Users: 'api/users.md'
